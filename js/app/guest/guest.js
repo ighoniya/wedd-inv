@@ -265,7 +265,7 @@ export const guest = (() => {
         const data = new URLSearchParams({
             action: 'TEMPLATE',
             text: 'The Wedding of Riana & Iqbal',
-            dates: `${formatDate('2023-03-15 10:00')}/${formatDate('2023-03-15 11:00')}`,
+            dates: `${formatDate('2026-04-18 10:00')}/${formatDate('2026-04-18 12:00')}`,
             details: 'Tanpa mengurangi rasa hormat, kami mengundang Anda untuk berkenan menghadiri acara pernikahan kami.',
             location: 'Wisma H. Kota Madiun, Jl. Ring Road Barat, Ngegong, Kec. Manguharjo, Kota Madiun, Jawa Timur 63125',
             ctz: config.get('tz'),
