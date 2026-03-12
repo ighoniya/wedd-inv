@@ -41,7 +41,7 @@ window.invitationData = {
             childOrder: "Putra ke-1",
             fatherName: "Bapak Dwi Wahyu Sulistyo",
             motherName: "Ibu Juminah",
-            photo: "./assets/images/cowo.webp"
+            photo: "./assets/images/cowo_pict.jpg"
         },
 
         // Bride information
@@ -50,7 +50,7 @@ window.invitationData = {
             childOrder: "Putri ke-2",
             fatherName: "Bapak Puja Hermiandono",
             motherName: "Ibu Ismiatun",
-            photo: "./assets/images/cewe.webp"
+            photo: "./assets/images/cewe_pict.jpg"
         },
 
         // Connecting word between parents
@@ -120,23 +120,43 @@ window.invitationData = {
 
     // ========== LOVE STORY ==========
     story: {
-        sectionTitle: "Kisah Cinta",
-        viewButton: "Lihat Story",
+        sectionTitle: "Daftar Kuliner",
+        viewButton: "Lihat",
         chapters: [
             {
                 number: 1,
-                title: "💼 Awal Pertemuan Sederhana",
-                content: "Pada Januari 2025, Iqbal, seorang desainer grafis berusia 28 tahun, bertemu Riana, copywriter yang dikenal cerdas dan pendiam, dalam proyek branding perusahaan. Interaksi mereka di ruang rapat terbatas pada urusan kerja, penuh adab dan profesional. Tanpa Iqbal ketahui, Riana sebenarnya pernah melihat karya desain Iqbal di lomba nasional dua tahun lalu dan kagum dengan bakatnya. Namun, sesuai prinsipnya, Riana menjaga jarak dan hanya fokus pada tugas, menghindari interaksi yang tidak perlu."
+                title: "Spesial Ayam Panggang 'Miroso' Hj. Mina Suryani",
+                content: "https://share.google/UCkre9lrkb4b2Wkq9"
             },
             {
                 number: 2,
-                title: "💞 Benih Cinta dalam Ujian",
-                content: "Memasuki Februari 2025, proyek mereka menghadapi krisis: klien menolak konsep awal dan mengancam membatalkan kontrak. Di tengah tekanan, Riana tampil dengan solusi kreatif yang menyelamatkan proyek, membuat Iqbal terkesan dengan ketenangan dan kecerdasannya. Diam-diam, Iqbal mulai memperhatikan Riana lebih dalam, terutama melalui unggahan media sosialnya yang penuh dengan nilai keimanan dan kesabaran. Merasa ada kesamaan visi, Iqbal beristikharah dan memutuskan memulai taaruf. Ia menghubungi seorang ustaz terpercaya sebagai perantara. Kejutan muncul saat Riana mengaku bahwa ia juga telah lama memperhatikan Iqbal, namun menahan diri hingga ada niat yang jelas, sebuah pengakuan yang membuat hati Iqbal hangat."
+                title: "Bekicot Magetan",
+                content: "https://share.google/djyJs3LNv160yYXO6"
             },
             {
                 number: 3,
-                title: "💍 Langkah Menuju Ridha Allah",
-                content: "Proses taaruf berjalan penuh keikhlasan, dengan pendamping yang memastikan setiap langkah sesuai syariat. Iqbal dan Riana saling terbuka tentang impian membangun keluarga yang diridhai Allah. Namun, sebuah ujian datang: keluarga Riana ragu karena latar belakang ekonomi Iqbal yang sederhana. Di sinilah plot twist terungkap—Iqbal mempresentasikan rencana usaha sosial berbasis seni yang telah ia kembangkan diam-diam, menunjukkan visinya untuk memberi manfaat bagi umat. Presentasi itu meluluhkan hati keluarga Riana. Pada Maret 2025, setelah istikharah dan mendapat restu keluarga, Iqbal melamar Riana dalam acara sederhana namun penuh makna. Dengan niat tulus, mereka melangkah menuju pernikahan, yakin bahwa Allah telah merajut kisah mereka dengan indah."
+                title: "Depot Nasi Pecel Madiun 99",
+                content: "https://share.google/KWhN4bL0CCAkATl5L"
+            },
+            {
+                number: 4,
+                title: "Gado-Gado & Tahu Campur Pak Tomo",
+                content: "https://share.google/heAayMseFHgl4qpj6"
+            },
+            {
+                number: 5,
+                title: "Dawet Suronatan Kota Madiun",
+                content: "https://maps.app.goo.gl/5S4j6DrieDP3f7xL9"
+            },
+            {
+                number: 6,
+                title: "Toko Mirasa (Oleh-Oleh)",
+                content: "https://share.google/UTiLkJDW85R6KYRyo"
+            },
+            {
+                number: 7,
+                title: "Bluder Cokro Kota Madiun (Oleh-Oleh)",
+                content: "https://share.google/g13qGivd3lhisG956"
             }
         ]
     },
