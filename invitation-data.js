@@ -80,14 +80,14 @@ window.invitationData = {
         akad: {
             title: "Akad",
             date: "Jum'at, 17 April 2026",
-            time: "Pukul 10.00 WIB - Selesai"
+            time: "Pukul 08.00 WIB - Selesai"
         },
 
         // Reception
         resepsi: {
             title: "Resepsi",
             date: "Sabtu, 18 April 2026",
-            time: "Pukul 13.00 WIB - Selesai"
+            time: "Pukul 10.00 WIB - 12.00 WIB"
         },
 
         // Dress code
@@ -98,8 +98,8 @@ window.invitationData = {
 
         // Location
         location: {
-            address: "Stasiun Magetan, Jl. Jiwan - Bar. No.14, Karangsono, Kec. Bar., Kabupaten Magetan, Jawa Timur 63395",
-            googleMapsUrl: "https://maps.app.goo.gl/1ueReZUv39923TwC9"
+            address: "Wisma H. Kota Madiun, Jl. Ring Road Barat, Ngegong, Kec. Manguharjo, Kota Madiun, Jawa Timur 63125",
+            googleMapsUrl: "https://maps.app.goo.gl/14vSaxtTg7iWBNYR6"
         }
     },
 

@@ -267,7 +267,7 @@ export const guest = (() => {
             text: 'The Wedding of Riana & Iqbal',
             dates: `${formatDate('2023-03-15 10:00')}/${formatDate('2023-03-15 11:00')}`,
             details: 'Tanpa mengurangi rasa hormat, kami mengundang Anda untuk berkenan menghadiri acara pernikahan kami.',
-            location: 'Stasiun Magetan, Jl. Jiwan - Bar. No.14, Karangsono, Kec. Bar., Kabupaten Magetan, Jawa Timur 63395',
+            location: 'Wisma H. Kota Madiun, Jl. Ring Road Barat, Ngegong, Kec. Manguharjo, Kota Madiun, Jawa Timur 63125',
             ctz: config.get('tz'),
         });
 
