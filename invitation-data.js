@@ -64,7 +64,7 @@ window.invitationData = {
 
         // Countdown datetime (format: YYYY-MM-DD HH:mm:ss in GMT+7/WIB)
         // This will be used for the countdown timer
-        countdownDatetime: "2026-04-17 10:00:00",
+        countdownDatetime: "2026-04-17 08:00:00",
 
         // Islamic greeting
         greeting: {
@@ -98,7 +98,7 @@ window.invitationData = {
 
         // Location
         location: {
-            address: "Wisma H. Kota Madiun, Jl. Ring Road Barat, Ngegong, Kec. Manguharjo, Kota Madiun, Jawa Timur 63125",
+            address: "Aula Utama Wisma Haji Lantai 2, Jl. Ringroad Barat, Ngegong, Kartoharjo, Kota Madiun",
             googleMapsUrl: "https://maps.app.goo.gl/14vSaxtTg7iWBNYR6"
         }
     },
@@ -181,8 +181,8 @@ window.invitationData = {
         transfer: {
             label: "Transfer",
             recipientName: "Riana Septiani Putri",
-            bankName: "Bank Central Asia",
-            accountNumber: "1234567891234",
+            bankName: "Bank Rakyat Indonesia (BRI)",
+            accountNumber: "032901073511503",
             infoButton: "Info"
         },
 
@@ -198,8 +198,8 @@ window.invitationData = {
         gift: {
             label: "Gift",
             recipientName: "Riana Septiani Putri",
-            phoneNumber: "0812345678",
-            address: "RT 10 RW 02, Desa Pajerukan, Kec. Kalibagor, Kab. Banyumas, Jawa Tengah 53191.",
+            phoneNumber: "082225066923",
+            address: "Jl. Sedap Malam CS.6 No.16 RT.10 RW.11 Kel. Jatisampurna, Kec. Jatisampurna, Kota Bekasi, Jawa Barat 17433",
             infoButton: "Info"
         }
     },
