@@ -25,7 +25,7 @@ window.invitationData = {
         pageTitle: "Undangan Pernikahan Riana & Iqbal",
         description: "Perayaan pernikahan Riana dan Iqbal secara online.",
         keywords: "undangan, wedding, undangan digital, undangan online, wedding invitation, template undangan, template undangan pernikahan, undangan pernikahan, template undangan online, wedding invitation github, template website, template website undangan pernikahan",
-        ogImage: "https://ighoniya.github.io/wedd-inv/assets/images/welcome_pict_landscape.png",
+        ogImage: "https://ighoniya.github.io/wedd-inv/assets/images/siluet_pict_landscape.jpg",
         ogUrl: ".",
         canonicalUrl: "./"
     },
