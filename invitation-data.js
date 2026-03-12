@@ -25,9 +25,9 @@ window.invitationData = {
         pageTitle: "Undangan Pernikahan Riana & Iqbal",
         description: "Perayaan pernikahan Riana dan Iqbal secara online.",
         keywords: "undangan, wedding, undangan digital, undangan online, wedding invitation, template undangan, template undangan pernikahan, undangan pernikahan, template undangan online, wedding invitation github, template website, template website undangan pernikahan",
-        ogImage: "https://ulems.my.id/assets/images/bg.webp",
-        ogUrl: "https://ulems.my.id",
-        canonicalUrl: "https://ulems.my.id/"
+        ogImage: "./assets/images/bg.webp",
+        ogUrl: ".",
+        canonicalUrl: "./"
     },
 
     // ========== COUPLE INFORMATION ==========

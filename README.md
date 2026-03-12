@@ -1,16 +1,8 @@
-# 💌 Template website undangan pernikahan sederhana
-
-![Thumbnail](/assets/images/banner.webp)
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/cef32dbf-f26f-4865-84a9-b85a439c9994/deploy-status)](https://app.netlify.com/sites/ulems/deploys)
-[![Hits](https://dikit.my.id/0b3y8q)](https://cie.my.id)
-[![GitHub repo size](https://img.shields.io/github/repo-size/dewanakl/undangan?color=brightgreen)](https://shields.io)
-[![GitHub License](https://img.shields.io/github/license/dewanakl/undangan?color=brightgreen)](https://shields.io)
-
 ## 🚀 Demo
-Untuk kamu yang ingin melihat demo terlebih dahulu:
+Untuk mengirim undangan ke tamu dengan nama spesifik, gunakan parameter `?to=` di URL:
 
-[https://ulems.my.id/?to=Teman teman semua](https://ulems.my.id/?to=Teman%20teman%20semua)
+* Contoh: `https://domain-undangan.com/?to=Budi+Santoso`
+* Untuk nama dengan spasi, gunakan `%20` atau `+`: `https://domain-undangan.com/?to=Teman+teman+semua`
 
 ## 📦 Documentation
 
@@ -40,11 +32,6 @@ Untuk kamu yang ingin melihat demo terlebih dahulu:
 - Presentation
     [https://docs.google.com/presentation](https://docs.google.com/presentation/d/1EY2YmWdZUI7ASoo0f2wvU7ec_Yt0uZanYa8YLbfNysk/edit)
 
-## ⏰ Trial API
-Untuk kamu yang ingin mencoba secara gratis:
-
-[https://trial.ulems.my.id](https://trial.ulems.my.id)
-
 ## ⚙️ Tech stack
 
 - Bootstrap 5.3.8
@@ -61,10 +48,3 @@ All visual assets in this project are sourced from Pixabay.
 
 I'm very open to those of you who want to contribute to the undangan!
 
-## 🐞 Security Vulnerabilities
-
-If you find any security vulnerabilities in this undangan, please email DKL via [dewanakretarta29@gmail.com](mailto:dewanakretarta29@gmail.com).
-
-## 📜 License
-
-Undangan is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
