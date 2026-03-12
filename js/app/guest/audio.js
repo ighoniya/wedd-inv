@@ -83,6 +83,21 @@ export const audio = (() => {
 
         music.addEventListener('offline', pause);
         music.addEventListener('click', () => isPlay ? pause() : play());
+
+        // Handle page visibility (Chrome mobile minimized/background)
+        document.addEventListener('visibilitychange', () => {
+            if (document.visibilityState === 'hidden') {
+                // Page is hidden/minimized - pause audio
+                if (isPlay) {
+                    pause();
+                }
+            } else if (document.visibilityState === 'visible') {
+                // Page is visible again - auto-resume
+                if (isPlay === false) {
+                    play();
+                }
+            }
+        });
     };
 
     /**
